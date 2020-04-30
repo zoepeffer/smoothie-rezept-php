@@ -1,0 +1,26 @@
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.kopf {
+  padding: 15px 25px;
+  background-color: #e9967a;
+
+}
+
+.a {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.hauptteil {
+  margin: 20px;
+}
+
+.footer {
+  background-color: #ffffff;
+}
